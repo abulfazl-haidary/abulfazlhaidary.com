@@ -1,0 +1,11 @@
+	-Navigation:
+- Removing the border-bottom
+- fixing the / problem .
+- fixing the background color (same as the about page)
+
+- Background:
+- small circle water marks & animating them with GSAP.
+
+* Important Notes:
+ - the felings that you give with Portfolio is very important.
+ - you should be aprove of what you said in your porfolio.
